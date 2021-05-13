@@ -2,7 +2,7 @@
 rpcx demo: 调用hashpower微服务，计算难度在10以内的hash
 
 
-## demn环境运行
+## 运行演示程序
 
 ### 一、 启动hashpower微服务
 
